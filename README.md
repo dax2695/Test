@@ -1,5 +1,5 @@
 <h1 align="center">
-    👋 Hi Tech minds, Badal here 👦🏻💻
+    👋 Hi Tech minds, Daxton here 👦🏻💻
 </h1>
 
 <p align="center">
