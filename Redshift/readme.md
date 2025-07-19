@@ -26,7 +26,7 @@ In this project, I have applied my knowledge on data warehouses and AWS to build
 4. time - timestamps of records in songplays broken down into specific units
   * start_time, hour, day, week, month, year, weekday
 
-![schema](./Staging_to_Redshift_ERD_V6.png)
+![schema](./Staging_to_Redshift.png)
 
 2. Wrote SQL CREATE statements for each of these tables in sql_queries.py
 3. Completed the logic in create_tables.py to connect to the database and create these tables
